@@ -1,0 +1,19 @@
+.odd{
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+	background-color: lightpink;
+}
+.big{
+	font-size: 24px;
+}
+.veryBig{
+	font-size: 36px;
+}
+#number2{
+	font-family: Arial, sans-serif;
+	color: blue;
+}
+#number4{
+	font-family: "Times New Roman",  sans-serif;
+	background-color: lightgreen;
+	font-weight: bold;
+}
